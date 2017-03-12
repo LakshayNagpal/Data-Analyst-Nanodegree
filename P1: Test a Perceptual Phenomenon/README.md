@@ -10,8 +10,8 @@ Attribute Information:
 2. Patient's year of operation (year - 1900, numerical) 
 3. Number of positive axillary nodes detected (numerical) 
 4. Survival status (class attribute) 
-..* 1 = the patient survived 5 years or longer 
-..* 2 = the patient died within 5 year
+	* 1 = the patient survived 5 years or longer 
+	* 2 = the patient died within 5 year
 
 **Dataset:** [View data](Book2.xlsx)
 
@@ -43,17 +43,24 @@ The data is roughly normally distributed for both the cases i.e. histogram for t
 ####3. Report some descriptive statistics regarding this dataset.
 
 **For the patient of Case 1: (were alive after 5 years of operation)**
+
 Mean of ages: 52.0178
+
 SD of ages: 10.987
 
 **For the patient of Case 2: (were dead after 5 years of operation)**
+
 Mean of ages: 53.6790
+
 SD of ages: 10.1041
 
 ####4. Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
 
 **Statistical test**
-![Normal probability plot for Case 1](werealive.png) ![Normal probability plot for Case2](werenotalive.png)
+
+![Normal probability plot for Case 1](werealive.png) 
+
+![Normal probability plot for Case2](werenotalive.png)
 
 The above graphs are the visualizations that show the distribution of the sample data. For the graph 1 i.e. the histogram for the ages of people who were alive after 5 years of operation, shows that most of the people who were alive were between 48-60 age. The distribution is a normal distribution.
 For graph 2 i.e. the histogram for the ages of people who were found dead after 5 years of operation, shows that most of the people who were dead were between 50-55 age. The distribution is a normal distribution.
