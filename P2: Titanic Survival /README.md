@@ -1,0 +1,1 @@
+I have used Jupyter Notebook to run the analysis and the same file can be found in this directory. The code can also be run in Python command line and analysis can be obtained. I have taken reference from some github repositories to get a glimpse on how to start the project. This is my first project in Data Analysis.
